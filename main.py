@@ -1,1 +1,2 @@
-print "Work!"
+import pygame
+print "1"
